@@ -2,7 +2,7 @@
 
 This is a vue test case app.
 
-# Vue.js project
+## Vue.js project
 
 This project was generated with [VUE CLI](https://github.com/vuejs/vue-cli).
 
